@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VetonMuhaxhiri
 - 👀 I’m interested in back end development
-- 🌱 I’m currently working and learning PHP and Java back-end development
-- 💞️ I’m looking to collaborate on Laravel and Spring boot applications
+- 🌱 I’m currently working and learning on NodeJS and PHP development
+- 💞️ I’m looking to collaborate on NestJS and Laravel applications
 - 📫 Reach me at [Facebook](https://www.facebook.com/vetonmuhaxhiri) , [LinkedIn](https://www.linkedin.com/in/vetonmuhaxhiri/)
 
 <!---
